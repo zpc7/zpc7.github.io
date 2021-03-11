@@ -1,11 +1,10 @@
-### 新的内容
-content
+### zpc7 GitHub Pages
+本repo当前仅作为挂在 zpc7.giuhub.io 下的静态站点目录统计
 
-## Title?
-
-主题自动添加了头部和底部?
-什么时候会读取repo的描述?
-
+- [Blog](https://zpc7.github.io/Blog/)
+- 
+- 
+---
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/zpc7/zpc7.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
