@@ -2,7 +2,7 @@
 本repo当前仅作为挂在 zpc7.giuhub.io 下的静态站点目录统计
 
 - [Blog](https://zpc7.github.io/Blog/)
-- 
+- [snippets-and-demos](https://zpc7.github.io/snippets-and-demos/)
 - 
 ---
 ## Welcome to GitHub Pages
