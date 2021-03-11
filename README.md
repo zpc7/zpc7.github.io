@@ -1,6 +1,7 @@
-## Title
+## Title?
 
 主题自动添加了头部和底部?
+什么时候会读取repo的描述?
 
 ## Welcome to GitHub Pages
 
